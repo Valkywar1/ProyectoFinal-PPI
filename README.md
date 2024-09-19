@@ -1,6 +1,16 @@
 # ProyectoFinal-PPI
 Respositorio del proyecto final de la clase de programación para internet
 
+Marketplace de productos locales
+ Sitio para vender y comprar productos hechos a mano o producidos localmente. Los vendedores pueden crear cuentas, publicar 
+ productos y gestionar sus ventas, mientras que los ususarios pueden buscar y comprar.
+
+  Caracteristicas: 
+  	- autentificación para compradores y vendedores
+   	- Gestión de productos con DRUD completo
+    	- Carrito de compras y sistema de pago
+     	- Carga de imagenes para productos. 
+
 # Proyecto Final
 
 El objetivo es que experimenten desarrollar un sistema pensando como un *full stack developer*, es decir que diseñen tanto el *backend* (base de datos, relaciones, validaciones), así como el *frontend* (vistas, html, js, css) y con ello lograr un sistema que brinde una buena experiencia de uso al usuario final.
