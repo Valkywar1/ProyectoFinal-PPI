@@ -1,0 +1,26 @@
+autentificación y autorización (1000)
+
+Validar del lado del servidor
+lado del cliente - requerys
+
+Implementar un template de css responsivas
+se muestra validaciones de formularios
+mavbar, menu
+
+Orm implementar que las consultas sean a traves de un orm, los modelos 
+
+Operación CRUD
+tenerlo hasta el crud
+
+relaciones
+
+Consulta
+NO utlilizar sql crudas o querybuilder
+
+
+extras, implementar con socieland
+servicios de pago? tienen sus apis y ejemplos de como implentar un sistema de pago
+
+
+
+
